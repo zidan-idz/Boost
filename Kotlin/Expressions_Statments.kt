@@ -10,11 +10,11 @@
 
  }
 
- fun D(){
+ fun Dex(){
      sum(1, 2 * 3)
  }
 
- fun D(){
+ fun Udx(){
      val index1 = 2
      val index2 = 4
      sum(index1 , index2)
